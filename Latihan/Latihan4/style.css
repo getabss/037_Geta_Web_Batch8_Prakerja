@@ -1,0 +1,19 @@
+.link{
+    font-size: 32pt;
+}
+
+.link:hover{
+    color: chartreuse;
+}
+
+.link:link{
+    color:bisque;
+}
+
+.link:active{
+    color: brown;
+}
+
+.link:visited{
+    background: blueviolet;
+}

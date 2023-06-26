@@ -1,0 +1,19 @@
+.tulisan_kiri{
+    text-align: left;
+}
+
+.tulisan_kanan{
+    text-align: right;
+}
+
+.tulisan_tengah{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tulisan_justify{
+
+    text-align:justify;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
